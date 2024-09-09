@@ -13,3 +13,4 @@ My Article Ideas:
 -Complexity versus Simplicity: the Language Connection
 -About Me
 -Judgement and its Subtleties
+-Stoicism
